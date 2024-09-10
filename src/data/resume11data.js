@@ -1,0 +1,48 @@
+export const resume11data=
+    {
+        image:" https://www.balmudra.com/wp-content/uploads/2015/02/Adorable-eleven-months-old-Indian-baby-girl-looking-at-camera.jpg.jpg",
+        name:"Srujana Badepally",
+        fname:"Srujana",
+        lname:"Badepally",
+        summary:"Enthusiastic developer with 6 months of experience in full-stack development, specializing in React.js and Node.js. Skilled in building responsive web applications ",
+        // summary:"Innovative software developer with 6 months of experience specializing in frontend development with a strong focus on React.js.Experienced React.js developer with a strong background in building robust and scalable e-commerce applications. Proficient in frontend development, with expertise in React.js deep understanding of UI/UX design .Key Skills:Extensive experience in building dynamic and responsive user interfaces using React.js .Solid understanding of frontend technologies, including HTML5, CSS3, JavaScript, React.js,Node.js,Education:Bachelor of Science in Computer ScienceOsmania UniversityMasters of Science in StatisticsOsmania UniversityLooking forward to leveraging my expertise in React.js and frontend development to contribute to the success of innovative projects .Excited to collaborate with talented teams and drive impactful solutions that delight users and drive business growth. Open to new challenges and opportunities for continuous learning and growth.",
+        education1:"ZP high school Kotra",
+        education2:"Intermediate:New Era jr college Kalwakurthy",
+        education3:"Annie Besant Women's college Dilshuknagar, Hyderabad",
+        education4:"Dhruva pg college santhosh nagar, Hyderabad",
+        cgpa1:"8.2",
+        cgpa2:"8.2",
+        cgpa3:"8.9",
+        cgpa4:"7",
+        academic_year1:"2013-2014",
+        academic_year2:"2014-2016",
+        academic_year3:"2012-2019",
+        academic_year4:"2020-2023",
+        languages:"Telugu,English",
+        hobbies1:"listing to music",
+        hobbies2:"dancing ",
+        hobbies3:"cooking",
+        hobbies4:"reading books",
+        companyname:"6icube Techno Consultants Pvt Ltd",
+        role:"Software Developer",
+        duration:"6Months",
+        address:"Kalwakurthy ",
+        email:"srujanabadepally123@gmail.com",
+        phone:" 9603151561",
+        technicalskills1:"react js",
+        technicalskills2:"html",
+        technicalskills3:"css ",
+        technicalskills4:"node js",
+        technicalskills5:"javascript",
+        skills1:"Good learner",
+        skills2:"Good team leader",
+        skills3:"Ready to learn new things",
+        skills4:"self motivated ",
+        skills5:"confidence",
+        experiance:"",
+   
+        job_description:"A Full-Stack developer is a professional responsible for working on both front-end and back-end development processes. They design, develop, and maintain fully-fledged and functioning platforms with databases or servers."
+
+
+        
+    }
